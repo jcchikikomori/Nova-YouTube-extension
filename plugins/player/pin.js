@@ -302,6 +302,7 @@ window.nova_plugins.push({
 
                background-color: var(--yt-spec-base-background);
 
+               border: 1px solid var(--yt-spec-10-percent-layer);
                border-radius: 1em;
                margin: 1em 2em;
             }
